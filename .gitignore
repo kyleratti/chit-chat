@@ -1,0 +1,8 @@
+*.class
+derby.log
+ChitChatDB
+
+# Package Files #
+*.jar
+*.war
+*.ear
